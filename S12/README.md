@@ -2,4 +2,4 @@
 
 
 ---
-* ( [index](./..) |  [previous](./S11))
+* ( [index](./..) |  [previous](../S11))

@@ -1,4 +1,4 @@
 ## [05](./S05)
 
 ---
-* ( [index](./..) |  [previous](./S04)  |  [next](./S06))
+* ( [index](./..) |  [previous](../S04)  |  [next](../S06))
