@@ -7,4 +7,6 @@
 * [005](./topics/p005): Python Types
 * [006](./topics/p006): Operators
 
-[back](./..)
+
+---
+* ( [index](./..) |  [next](./S02))

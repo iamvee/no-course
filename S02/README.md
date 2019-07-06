@@ -6,4 +6,5 @@
 * [010](./topics/p010): Builtin Methods
 * [011](./topics/p011): p011
 
-[back](./..)
+---
+* ( [index](./..) |  [previous](./S01)  |  [next](./S03))
