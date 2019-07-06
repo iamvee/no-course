@@ -1,4 +1,4 @@
 ## [08](./S08)
 
 ---
-* ( [index](./..) |  [previous](../S07)  |  [next](../S09))
+* ( [index](./../README.md) |  [previous](../S07)  |  [next](../S09))

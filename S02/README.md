@@ -7,4 +7,4 @@
 * [011](./topics/p011): p011
 
 ---
-* ( [index](./..) |  [previous](../S01)  |  [next](../S03))
+* ( [index](./../README.md) |  [previous](../S01)  |  [next](../S03))
