@@ -2,7 +2,6 @@
 
 ## Python's Console / Shell
 
-
 ## Env Vars
 
 ## First Python Code
